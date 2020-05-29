@@ -13,3 +13,4 @@ This repository serves as the source of truth for our documentation, developer h
 - We use a Staart API-based backend with a new frontend (not using Staart UI)
   - Map `organizations` to `homes`? Let users switch in advanced settings?
   - Use `@staart/payments` with Stripe Switzerland?
+- In Vue.js, rather than `v-if="!loading && data.length"`, always use `v-if="state === 'loading'"` and `v-else-if="state === 'empty'"` combined with getter `get state() { if (!data.length) return "empty"; return "error" }`
