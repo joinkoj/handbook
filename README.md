@@ -7,6 +7,7 @@ This repository serves as the source of truth for our documentation, developer h
 ## Ideas
 
 - We use Conventional Commits (without Gitmoji)
+- Pull requests only, always, never push to master
 - We have a generator for `nuxt-i18n` using directory structure (e.g., `path/to/file.json` -> `$i18n.t("path.to.file.key")`)
 - Guide on how to update `status.joinkoj.com`
 - We use a Staart API-based backend with a new frontend (not using Staart UI)
