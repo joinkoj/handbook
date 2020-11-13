@@ -35,7 +35,7 @@ We use a prefix system to name Slack channels. These category-based prefixes are
 - `sales-` relating to sales
 - `tech-` relating to technology, engineering, and design
 
-If you create a new channel, try to add the most relevant prefix. If there is no relevant prefix in this list, create a new prefix and add it to this list.
+If you create a new channel, try to add the most relevant prefix. If there is no relevant prefix in this list, create a new prefix and add it to this list. Channel names should be in [kebab case](https://en.wiktionary.org/wiki/kebab_case), all lowercased, and with a hyphen between terms, e.g., `tech-new-project-name`.
 
 ## Prior art
 
