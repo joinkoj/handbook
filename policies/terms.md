@@ -2,204 +2,244 @@
 
 _These General Terms and Conditions are only provided in German. The customer is required to translate the General Terms and Conditions themself. Koj AG is not responsible for any mistranslation done by the customer._
 
-## 1. Geltungsbereich
+## 1. Geltungsbereich und Vertragspartner
 
-Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB”) gelten für die Nutzung der von Koj AG (nachfolgend „Koj”), Weihergasse 11, 3005 Bern, angebotenen und von der Mieterin (nachfolgend „Mieterschaft”) genutzten Leistungen. Sie kommen zur Anwendung, soweit nicht spezifische Regelungen in individuellen Verträgen vorgehen.
+Diese Allgemeinen Geschäftsbedingungen (nachfolgend „AGB” oder „AGBs”) gelten für die Nutzung der von Koj AG (nachfolgend Koj”), Weihergasse 11, 3005 Bern, angebotenen und von der Kundin oder dem Kunden (nachfolgend „Kunde” oder „Kunden”) genutzten Leistungen. Sie kommen zur Anwendung, soweit nicht spezifische Regelungen in individuellen Verträgen vorgehen.
 
-Koj behält sich vor, die AGBs jederzeit ohne Angabe von Gründen anzupassen. Solche Änderungen werden der Mieterschaft umgehend via E-Mail oder in anderer Schriftform mitgeteilt. Die Änderungen gelten als angenommen, wenn die Mieterschaft nicht innert 14 Tagen nach Bekanntgabe schriftlich widerspricht.
+Koj behält sich vor, die AGBs jederzeit ohne Angabe von Gründen anzupassen. Solche Änderungen werden dem Kunden umgehend via Email oder in anderer Schriftform mitgeteilt. Die Änderungen gelten als angenommen, wenn der Kunde nicht innert 14 Tagen nach Bekanntgabe schriftlich widerspricht.
 
-## 2. Mietsache
+## 2. Allgemeine Grundsätze
 
-Die Vermieterin überlässt der Mieterschaft die Gegenstände gemäss Offerte [nachfolgend Mietsache] zum entgeltlichen Gebrauch. Die Mietsache verbleibt im Eigentum der Vermieterin.
+Kunden sind verpflichtet, bei der Nutzung der Leistung von Koj die gesetzlichen Vorgaben einzuhalten und keine Rechte Dritter zu verletzen. Sie sind verpflichtet, die ihnen gemäss Ziff. 7 „Pflichten des Kunden” obliegenden Pflichten zu erfüllen. Bei einer Verletzung dieser Verhaltenspflichten haftet der Kunde für allfälligen daraus resultierende Schaden.
 
-## 3. Vertragsbestandteile
+## 3. Leistungen/ Nutzung
 
-Der Vertrag zwischen der Koj und der Mieterschaft besteht aus der Offerte und den AGB. Sofern die einzelnen Vertragsbestandteile zueinander in einem weder durch entsprechende Auslegung noch sonstwie aufzulösenden Widerspruch stehen, besteht unter den Vertragsbestandteilen folgende Hierarchie:
+### 3.1 Enthaltene Leistungen
 
-1. Offerte vom [Datum]
-2. AGB
+Koj überlässt dem Kunden während der Vertragsdauer ein im individuellen Vertrag für Möbel-Abonnement („Vertrag“) festgelegte und vom Kunden zugestimmte Wohungseinrichtung zum Gebrauch. Die Wohnungseinrichtung bleibt über die gesamte Vertragsdauer Eigentum von Koj. Der Kunde hat für den Bezug der Leistung eine monatliche Nutzungsgebühr an Koj zu entrichten. Koj steht es frei, die dem Kunden zur Verfügung gestellten Möbel jederzeit gegen gleichwertige Möbel auszutauschen.
 
-## 4. Zustandekommen des Mietvertrags, Mietbeginn, Dauer und Kündigung
+Mit der Entrichtung der monatlichen Nutzungsgebühr werden die Möbelnutzung, die Installation, die Abbauarbeiten, der Transport sowie die notwendige Versicherung abgegolten.
 
-Der Mietvertrag wird mit einer Mindestvertragsdauer abgeschlossen, die sich nach der Offerte bestimmt. Vorbehalten bleibt die Bonitätsprüfung der Mieterschaft durch Koj, aufgrund derer Koj das einseitige Recht zusteht, den Vertragsschluss abzulehnen. Die Mieterschaft hat der Offertanfrage eine Kopie eines gültigen Ausweisdokuments (ID oder Pass) sowie des aktuellen und hier interessierenden Mietvertrags beizulegen.
+Die dem Kunden zur Verfügung gestellten Möbel weisen wenig Gebrauchsspuren auf und sind bei Übernahme unbeschädigt.
 
-Die Miete beginnt am vereinbarten Liefertermin (Offerte, E-Mail oder Telefon).
+Dem Kunden steht das Recht zum Möbel-Wechsel gemäss Ziff. 6.4 Möbel-Wechsel zu.
 
-Das Mietverhältnis endet in jedem Fall mit dem Wohnungswechsel der Mieterschaft. Er kann von der Mieterschaft mit einer Frist von 90 Tagen auf das Ende eines Monats, erstmals nach Ablauf der Mindestvertragsdauer, gekündigt werden. Vorbehalten bleibt eine davon abweichende schriftliche Abmachung zwischen den Parteien (E-Mail genügt).
+Entscheidet sich der Kunde dafür, von diesem Recht Gebrauch zu machen, kann er aus dem, zum Zeitpunkt des Möbelwechsels bestehenden und verfügbaren Möbelangebot zu den dann geltenden Konditionen frei ein andere Möbel wählen.
 
-Nach Ablauf der Mindestvertragsdauer hat die Vermieterin das Recht, den Mietvertrag mit einer Frist von 30 Tagen auf einen beliebigen Zeitpunkt zu kündigen.
+### 3.2 Nicht enthaltene Leistungen
 
-Der Mietvertrag kann ferner aus wichtigen Gründen jederzeit mit sofortiger Wirkung aufgelöst werden. Als wichtiger Grund gilt jede gravierende Vertragsverletzung (wie unsachgemässer Gebrauch der Möbel, entfernen der Möbel von der Lieferadresse) einer Partei, die trotz Ersuchen der anderen Partei nicht innert zehn (10) Tagen behoben wird und die die Fortsetzung der Vereinbarung für die andere Partei als unzumutbar erscheinen lässt.
+Von der Leistung ausgeschlossen sind alle in Ziffer 3.1 „Enthaltene Leistungen” nicht explizit aufgeführten Kosten.
 
-Jede Partei hat das Recht, mit sofortiger Wirkung den Mietvertrag zu kündigen bei Zahlungsunwilligkeit oder -unfähigkeit, drohendem oder eröffnetem Konkurs oder bei Nachlassstundung der anderen Partei.
+### 3.3 Geografische Region der Nutzung
 
-Die Parteien sind verpflichtet, während den Kündigungsfristen ihre Pflichten unter dem Mietvertrag weiterhin uneingeschränkt zu erfüllen.
+Die Möbel von Koj dürfen nur in der Schweiz eingesetzt werden: Eine Nutzung der Möbel ausserhalb der Schweiz ist untersagt.
 
-Die Kündigung bedarf der Schriftform (E-Mail genügt).
+### 3.4 Nutzungsberechtigte
 
-## 5. Einmaliges Rücktrittsrecht
+Kunden dürfen die Möbel Dritten (nachfolgend „Nutzungsberechtigte”) zur Nutzung überlassen. Nutzungsberechtigte haben die für Kunden geltenden Voraussetzungen zu erfüllen und die in den AGBs aufgeführten Pflichten einzuhalten. Der Kunde bleibt Vertragspartner und ist für die Einhaltung der vertraglichen Obliegenheiten verantwortlich, unabhängig davon ob er selbst oder eine Nutzungsberechtigter der Möbel nutzt. Auf erste Aufforderung von Koj ist der Kunde verpflichtet, die persönlichen Daten des Nutzungsberechtigten unverzüglich bekannt zu geben.
 
-Nach Unterzeichnung der Offerte hat die Mieterschaft das Recht, innert 30 Tagen nach Unterzeichnung vom Vertrag zurückzutreten. Die nicht von der Regelung unter Ziff. 8 erfassten und mit dem Vertragsrücktritt zusätzlich anfallenden Kosten gehen vollumfänglich zu Lasten der Mieterschaft. Bereits geleistete Zahlungen (bspw. erster Mietzins) können nicht zurückgefordert werden.
+### 3.5 Erweiterung oder Einschränkung der Leistung/Nutzung
 
-## 6. Nutzung
+Koj kann unter Einhaltung einer angemessenen Ankündigungsfrist die angebotenen Leistungen respektive die zulässige Nutzung erweitern oder einschränken.
 
-### 6.1. Geografische Region der Nutzung
+Koj kann Kunden oder Nutzungsberechtigte ohne Angabe von Gründen vom Bezug von Leistungen ausschliessen.
 
-Die Möbel von Koj dürfen nur in der Schweiz genutzt werden.
+## 4. Vertrag
 
-Zum Vertragsschluss und Bezug der Leistungen sind nur natürliche und juristische Personen berechtigt, welche über eine feste Wohnadresse oder einen Geschäftssitz in der Schweiz verfügen. Die Mieterschaft hat vor Vertragsschluss einen Bonitätsnachweis entsprechend den Anforderungen von Koj zu erbringen. Sie erklärt sich damit einverstanden, dass Koj die Bonität selbständig prüft oder durch einen Dritten prüfen lässt und dazu die notwendigen Informationen einholt oder einholen lässt.
+### 4.1 Vertragsschluss, -dauer und -rücktritt
 
-### 6.2. Nutzungsberechtigte
+Der konkrete Leistungsbezug des Kunden wird im Vertrag geregelt. Dieser wird entweder vorab elektronisch durch den Kunden unterzeichnet oder spätestens bei der Möbelübergabe persönlich unterzeichnet.
 
-Die Mieterschaft darf die Möbel Dritten (nachfolgend „Nutzungsberechtigte”) nur mit vorgängiger schriftlicher Zustimmung der Koj zur Nutzung überlassen. Nutzungsberechtigte haben die für die Mieterschaft geltenden Voraussetzungen zu erfüllen und die in den AGBs aufgeführten Pflichten einzuhalten. Die Mieterschaft bleibt Vertragspartner der Koj und ist ihr gegenüber für die Einhaltung der vertraglichen Obliegenheiten verantwortlich, unabhängig davon ob sie selbst oder eine Nutzungsberechtigter die Möbel nutzt.
+Mit mündlicher oder schriftlicher Zustimmung durch den Kunden tritt der Vertrag für beide Seiten in Kraft.
 
-## 7. Liefer- und Montagetermin sowie -bedingungen
+Der Vertragsrücktritt vom Kunden nach erfolgter Zahlung der Anfangspauschale aber vor Beendigung der minimalen Vertragsdauer bedarf der Zustimmung von Koj. Im Falle eines Vertragsrücktrittes hat der Kunde keinen Anspruch auf Rückerstattung etwaiger Kosten.
 
-Die Lieferung und Montage der Mietsache sowie damit zusammenhängende Arbeiten erfolgen am zwischen den Parteien vereinbarten Termin, an die von der Mieterschaft angegebene Lieferadresse, gemäss Offerte. Nachträgliche übereinstimmende Terminverschiebungen oder Adressänderungen bleiben vorbehalten.
+Der Vertrag wird auf unbestimmte Zeit mit einer Mindestvertragsdauer von 12 Monaten abgeschlossen. Bei gegenseitiger Vereinbarung kann die Mindestvertragsdauer verkürzt oder verlängert werden.
 
-Lieferverzögerungen werden der Mieterschaft frühzeitig mitgeteilt. Lieferverzögerungen berechtigen die Mieterschaft nicht zum Vertragsrücktritt.
+Erfolgt keine Kündigung auf das Ende der Mindestvertragsdauer, verlängert sich der Vertrag automatisch.
 
-Die Lieferung und Montage erfolgen nur an bzw. in Anwesenheit von volljährigen Personen.
+### 4.2 Inanspruchnahme der Leistung durch natürliche Personen
 
-Die Mieterschaft hat allenfalls bereits vorhandenen Möblierung zur Seite zu räumen, sodass sie die Montage nicht behindert, sowie den Zugang zu der Wohnung und zum Hauptstromanschluss der Wohnung zu gewähren.
+Zum Vertragsschluss und Bezug der Leistungen sind nur Personen berechtigt, welche über eine feste Wohnadresse in der Schweiz verfügen. Der Kunde hat vor Vertragsschluss einen Bonitätsnachweis entsprechend den Anforderungen von Koj zu erbringen. Er erklärt sich damit einverstanden, dass Koj die Bonität selbständig prüft und dazu die notwendigen Informationen einholt.
 
-Die Lieferung erfolgt grundsätzlich bis in einen Raum der Wohnung an der Lieferadresse, sofern der Anfahrtsweg geeignet ist für den Transport und sofern die Gebäudestruktur dies zulässt (Türgrösse und Treppenhaus). Es liegt in der Verantwortung der Mieterschaft, rechtzeitig abzuklären, ob die genannten Voraussetzungen gegeben sind und falls dies nicht der Fall ist, die Vermieterin rechtzeitig darüber zu informieren, andernfalls muss die Mieterschaft allfällige zusätzlich entstehende Kosten bezahlen.
+### 4.3 Vertragsabschluss mit juristischen Personen
 
-Sind zusätzliche Hilfsmittel zur Lieferung erforderlich (z.B. Fassadenlift) oder ist der Zugang erschwert (z.B. durch lange Fusswege), muss die Mieterschaft die Vermieterin vorher darüber informieren. Die durch diese Umstände zusätzlich anfallenden Kosten werden der Mieterschaft separat in Rechnung gestellt.
+Soweit der Vertrag mit einer juristischen Person mit Sitz in der Schweiz geschlossen wird, ist im Vertrag ein verantwortlicher Hauptnutzer für die Möbel festzulegen. Dieser Hauptnutzer gilt als Ansprechpartner für Koj in allen Vertrags-, Rechnungs- und Möbelnutzugnsfragen. Der Hauptnutzer hat die in Ziff. 4.2 aufgeführten Voraussetzungen persönlich zu erfüllen. Vor Vertragsschluss hat die juristische Person einen den Anforderungen von Koj entsprechenden Bonitätsnachweis zu erbringen.
 
-Liegt die Lieferadresse an einem autofreien Ort, liefert die Vermieterin lediglich bis zur Talstation oder soweit zugefahren werden kann.
+### 4.4 Kündigung
 
-Wand- und Deckenmontagen, Elektro- und Sanitäranschlüsse, der Einbau von Unterhaltungselektronik sowie bautechnische Arbeiten (bspw. Malerarbeiten) erfordern eine geeignete Beschaffenheit der Wand- bzw. der Deckenkonstruktion. Sie erfolgen nur auf besonderen Wunsch der Mieterschaft und auf deren alleiniges Risiko.
+Nach der Mindestvertragsdauer kann der Vertrag jederzeit mit einer Frist von mindestens 30 Tagen auf den Stichtag der Abonnementsperiode gekündigt werden. Die Kündigung hat schriftlich zu erfolgen. Im Falle einer Kündigung durch den Kunden bestätigt Koj die Beendigung des Vertrages und koordiniert die Möbelrücknahme.
 
-Die Mieterschaft hat während der Lieferung und Montage alle sonstigen Massnahmen zu treffen, die von ihrer Seite notwendig sind, um der Vermieterin die ordnungsgemässe Bereitstellung der Mietsache zu ermöglichen.
+### 4.5 Fristlose Kündigung
 
-Wird die Mieterschaft am Liefer- und Montagetermin nicht an der Lieferadresse angetroffen oder verweigert sie die Annahme, wird ihr so rasch als möglich ein neuer Liefer- und Montagetermin mitgeteilt. Die Vermieterin ist in diesem Fall berechtigt, eine Bearbeitungsgebühr von CHF 100.00 sowie die Kosten für jede zusätzliche Anlieferung bzw. Anreise des Servicepartners separat in Rechnung zu stellen.
+Bei Vorliegen wichtiger Gründe kann der Vertrag durch beide Parteien fristlos gekündigt werden. Gründe für eine fristlose Kündigung sind u.a.:
 
-Kann die Lieferung aus einem Grund nicht erfolgen, den die Mieterschaft zu vertreten hat, kann die Vermieterin der Mieterschaft für die Lagerung der Gegenstände ab dem 11. Tag nach angekündigter Bereitstellung CHF 5.00 pro Tag verrechnen.
+1. Nichtbegleichung finanzieller Forderungen von Koj (vgl. 5.6)
+2. Missbräuchlicher Einsatz der Möbel
 
-Diese Pflichten der Mieterschaft gelten auch bei Nachbesserungsarbeiten und bei der Rücknahme der Mietsache.
+### 4.6 Kostenfolgen einer fristlosen Vertragskündigung
 
-## 8. Mietzins und Transportkosten
+Im Falle einer fristlosen Kündigung stehen Koj folgende Forderungen zu, welche der Kunde anerkennt:
 
-Der Mietzins für die Möbelnutzung wird in der Offerte festgelegt und ist monatlich jeweils im Voraus auf den 1. des Monats zu bezahlen.
+1. Aufwandpauschale von CHF 150.00 für mit der Kündigung entstehende Umtriebe
+2. Aufwendungen (Zeit und direkte Kosten), die im Zusammenhang mit der Abholung der Möbel stehen
+3. Monatsgebühren bis zum Ablauf der Mindestvertragsdauer respektive zum Zeitpunkt, zu welchem die Möbel sich wieder bei Koj befinden
+4. Entschädigungspauschale im Betrage von mindestens einer Monatsmiete für die im Zusammenhang mit der Weitervermietung stehenden Kosten
 
-Der Mietzins ist auf das Konto der X AG [Firma wie im HR, Adresse und Konto] zu bezahlen und Mietzinszahlungen mit befreiender Wirkung können nur an ebendieses Konto geleistet werden.
+## 5. Preise, Rechnungsstellung und Verzugskosten
 
-Die Lieferung und die damit zusammenhängenden Arbeiten sowie die Möbelrückgabe bzw. -Abholung und die damit zusammenhängenden Arbeiten (bspw. Demontage) sind im Mietzins inbegriffen. Zusätzliche Leistungen werden separat in Rechnung gestellt (bspw. Fassadenlift, Endreinigung, ausserordentliche Reparaturen etc.).
+### 5.1 Preise im Allgemeinen
 
-## 9. Preise und Kosten
+Alle Kosten sind in den jeweils gültigen Tarifbestimmungen festgelegt, die einen festen Bestandteil des Vertrags bilden.
 
-### 9.1. MWST
+### 5.2 MWST
 
-Alle Preisangaben verstehen sich inklusive der gesetzlichen Mehrwertsteuer.
+Alle Preisangaben gemäss 5.1. verstehen sich inklusive der gesetzlichen Mehrwertsteuer.
 
-### 9.2. Preisanpassungen
+### 5.3 Preisanpassungen
 
-Koj behält sich vor, Preise anzupassen, insb. im Falle eines Möbelwechsels. Für die vertragliche Mindestlaufzeit oder bis zum nächstmöglichen Kündigungstermin gelten jeweils die vereinbarten Konditionen. Anderslautende Vereinbarungen zwischen den Parteien bleiben vorbehalten.
+Koj behält sich vor, Preise anzupassen. Für die vertragliche Mindestlaufzeit oder bis zum nächstmöglichen Kündigungstermin gelten jeweils die vereinbarten Konditionen.
 
-### 9.3. Zahlungsverzug
+### 5.4 Auslieferungsvoraussetzungen
 
-Wird eine Rechnung von Koj nicht innerhalb der Zahlungsfrist bezahlt, gerät der Mieterschaft ohne weitere Mahnung in Verzug. Bei Verzug ist Koj berechtigt, der Mieterschaft die entstehenden Mehraufwendungen in folgender Höhe in Rechnung zu stellen:
+Vor Möbellieferung hat der Kunde im Vorfeld allfällig anfallende Abonnementgebühren für die dem Auslieferungsmonat folgenden beiden Monate zu bezahlen. Die im Auslieferungsmonat in Anspruch genommenen Möbelnutzungstage werden dem Kunden zusammen mit den für den Rückgabemonat abzurechnenden Möbelnutzungstage mit der letzten monatlichen Abonnementabrechnung in Rechnung gestellt.
 
-- 1. Mahnung / Zahlungserinnerung: Keine Zusatzkosten
-- 2. Mahnung: Pauschal CHF 25.00
-- 3. Mahnung: Pauschal CHF 40.00
-- Ab Fälligkeitsdatum Verzugszinsen in Höhe von 5% p.a. auf den Rechnungsbetrag
+### 5.5 Rechnungsstellung
 
-Die Verrechnung zusätzlicher Verzugskosten bleibt vorbehalten.
+Das Zahlungsziel der Rechnungen von Koj beträgt 15 Tage. Koj behält sich vor, das Zahlungsziel zu verkürzen.
 
-Erfolgt auch nach der 3. Mahnung keine vollständige Zahlung der offenen Rechnung durch die Mieterschaft, ist Koj berechtigt, den Mietvertrag ausserordentlich zu kündigen, die Möbel umgehend kostenpflichtig einzuziehen und die Forderungen gegenüber der Mieterschaft einem Inkassobüro zu übergeben.
+Die monatliche Nutzungsgebühr wird dem Kunden automatisiert per elektronischer Zustellung/Email für den jeweils übernächsten Monat in Rechnung gestellt.
 
-Die Kosten des Inkassobüros (weitere Mahnkosten und Betreibungskosten) gehen zu Lasten der Mieterschaft und sind von ihr anerkannt.
+### 5.6 Zahlungsverzug
 
-Im Falle einer fristlosen Kündigung, für welche die Mieterschaft den Grund gesetzt hat, stehen Koj folgende Forderungen zu, welche der Mieterschaft anerkennt:
+Wird eine Rechnung von Koj nicht innerhalb der Zahlungsfrist bezahlt, gerät der Kunde ohne weitere Mahnung in Verzug. Bei Verzug ist Koj berechtigt, dem Kunden die entstehenden Mehraufwendungen in folgender Höhe in Rechnung zu stellen:
 
-- Aufwandpauschale von CHF 150.00 für mit der Kündigung entstehende Umtriebe
-- Aufwendungen (Zeit und direkte Kosten), die im Zusammenhang mit der ausserordentlichen Abholung der Möbel stehen
-- Mietzins bis zum Zeitpunkt, zu welchem die Möbel sich wieder bei Koj befinden
-- Entschädigungspauschale im Betrage von mindestens einer Monatsmiete für die im Zusammenhang mit der Weitervermietung stehenden Kosten
+1. Mahnung / Zahlungserinnerung: Keine Zusatzkosten
+2. Mahnung: Pauschal CHF 25.-
+3. Mahnung: Pauschal CHF 40.-
+4. Ab Fälligkeitsdatum Verzugszinsen in Höhe von 5% p.a. auf den Rechnungsbetrag
+5. Die Verrechnung zusätzlicher Verzugskosten bleibt vorbehalten.
 
-## 10. Pflichten der Mieterschaft
+Erfolgt auch nach der 3. Mahnung keine vollständige Zahlung der offenen Rechnung durch den Kunden, ist Koj berechtigt, vom Abo-Vertrag fristlos zurückzutreten, die Möbel umgehend kostenpflichtig einzuziehen und die Forderungen gegenüber dem Kunden einem Inkassobüro zu übergeben.
 
-Die Mieterschaft hat während der Vertragsdauer die folgenden allgemeinen Pflichten:
+Die Kosten des Inkassobüros (weitere Mahnkosten und Betreibungskosten) gehen zu Lasten des Kunden und sind von ihm anerkannt.
 
-- Die Mieterschaft leistet vor Übergabe der Mietsache eine Kaution von CHF […] auf das Konto [...] der Vermieterin. Die Kaution dient der Sicherung der Mietzinse und zur Deckung von Schäden an der Mietsache, für welche die Mieterschaft einzustehen hat. Wir die Kaution nicht rechtzeitig bezahlt, hat die Vermieterin das Recht, diesen Vertrag per sofort aufzulösen. Bei vollständiger, mängelfreier Rückgabe der Mietsache wird die Kaution zurückerstattet. Zinsen sind keine geschuldet.
-- Die Mieterschaft verpflichtet sich, die Mietsache in sorgfältiger Art und Weise zu gebrauchen, alle Obliegenheiten, die mit dem Besitz, dem Gebrauch und dem Erhalt der Mietsache verbunden sind, zu beachten und Nutzungseinschränkungen sowie Pflege- und Gebrauchsempfehlungen der Vermieterin und des Herstellers zu befolgen. Kosten für eine Endreinigung werden separat verrechnet.
-- Einen ordnungsgemässen und verantwortungsvollen Schutz gegen Diebstahl (Verriegeln von Fenstern und Türen) sicherzustellen sowie eine Hausratsversicherung abzuschliessen.
-- Keine optischen oder technischen Veränderungen an den Möbeln vorzunehmen oder selbst Reparaturen oder Servicearbeiten durchzuführen.
-- Koj über Vorfälle, Unfälle oder Schäden an der Mietsache unverzüglich in Kenntnis zu setzen.
-- Die Mieterschaft hat die Mietsache von allen Belastungen, Inanspruchnahmen und Pfandrechten Dritter frei zu halten. Sie ist verpflichtet, die Vermieterin unter Überlassung aller notwendigen Unterlagen unverzüglich zu benachrichtigen, wenn während der Laufzeit des Mietvertrags die Mietsache dennoch gepfändet oder in irgendeiner anderen Weise von Dritten in Anspruch genommen wird oder in sonstiger Weise verlustig geht. Die Mieterschaft trägt alle Kosten, die zur Aufhebung derartiger Eingriffe Dritter erforderlich sind.
+## 6. Pflichten von Koj
 
-## 11. Prüfpflicht, Mängelrüge und Gewährleistung
+### 6.1 Übernahme von Kosten
 
-Die Mieterschaft ist verpflichtet, bei Anlieferung bzw. nach erfolgter Montage die Mietsache und die mit der Montage zusammenhängenden ausgeführten Arbeiten umgehend auf ihre Vollständigkeit und das Vorliegen von Mängeln zu prüfen. Bei allfälligen Mängeln ist die Vermieterin sofort schriftlich und unter Beilage von Fotos zu informieren. Soweit solche Mängel nicht sofort gemeldet wurden, wird vermutet, dass sie nach erfolgter Lieferung und Montage entstanden sind. Die Mietsache ist entweder neu oder leicht/normal gebraucht. Übliche Gebrauchsspuren und Abnutzungen an der Mietsache sind keine Mängel.
+Koj verpflichtet sich, sämtliche Kosten, die für die Beschaffung der Möbel zu übernehmen.
 
-Versteckte Mängel müssen der Vermieterin sofort nach Entdeckung gemeldet werden. In dringlichen Fällen sind die nötigen Vorkehrungen zu treffen, um weiteren Schaden von der Mietsache abzuwenden. Die Mieterschaft darf Reparaturen, Services oder andere Arbeiten und Veränderungen an der Mietsache nicht ohne das schriftliche Einverständnis der Vermieterin einem Dritten in Auftrag geben oder selbst erledigen.
+### 6.2 Services und Wartung
 
-Im Falle eines Mangels, den die Vermieterin zu vertreten hat und der die Nutzung der Einrichtungsgegenstände bzw. die damit zusammenhängenden Arbeiten zum vertragsgemässen Gebrauch ausschliesst oder zumindest erheblich einschränkt, hat die Mieterschaft ein Recht auf Nachbesserung innert angemessener Frist. Alle anderen Gewährleistungsansprüche (insbesondere Wandelung, Minderung oder Schadenersatz) sind soweit gesetzlich zulässig ausgeschlossen. Dies gilt für alle Arten von Mängeln.
+Der Kunde darf Reparaturen, Services, oder andere Arbeiten niemals ohne das Einverständnis von Koj einem Dritten in Auftrag geben oder selbst erledigen.
 
-## 12. Haftung der Vermieterin
+### 6.3 Möbelwechsel
 
-Die Vermieterin haftet einzig für den funktionstüchtigen und betriebssicheren Zustand der Mietsache und der damit zusammenhängenden Arbeiten im Zeitpunkt der Übergabe. Jede weitere Haftung (insbesondere für Liefer-, Montage, oder sonstige Arbeitsverzögerungen, Unmöglichkeit oder mit der Montage zusammenhängende Arbeiten) wird soweit gesetzlich zulässig ausgeschlossen.
+Dem Kunden steht die Möglichkeit zu, frühestens alle 12 Monate einen Möbelwechsel vorzunehmen indem er aus dem bestehenden Möbelangebot der Koj andere Möbel zu den entsprechenden Konditionen auswählt. Bei einem Möbelwechsel ist entweder ein neuer Vertrag abzuschliessen oder der bestehende Vertrag entsprechend anzupassen. Ein Möbelwechsel kann vom Kunden nur auf den nächsten Kündigungstermin unter Einhaltung der geltenden Fristen nachgefragt werden. Die Zulassung des Möbelwechsels und die Festlegung des Wechseltermins obliegen Koj.
 
-## 13. Haftung der Mieterschaft
+Der Möbelwechsel bzw. die dazugehörige Möbelübernahme finden beim Kunden statt. Soll der Möbelwechsel aufgrund eines Kundenwunsches an einem anderen Standort erfolgen, kann Koj dem Kunden die damit im Zusammenhang stehenden Kosten in Rechnung stellen.
 
-Die Mieterschaft haftet für alle Schäden an der Mietsache, die durch unsachgemässen, übermässigen oder vertragswidrigen Gebrauch derselben entstanden sind.
+Möbelwechsel innerhalb der gleichen Wohnungseinrichtung sind ausgeschlossen.
 
-Hat die Mieterschaft für einen Totalschaden oder einen sonstigen Untergang der Mietsache einzustehen, so hat sie den Wiederbeschaffungswert der Mietsache zu ersetzen.
+## 7. Pflichten des Kunden
 
-## 14. Möbelwechsel
+### 7.1 Allgemeine Pflichten
 
-Nach Mietbeginn hat die Mieterschaft in den ersten 30 Tagen ab Lieferung und danach frühestens nach Ablauf der Mindestvertragsdauer und darauffolgend alle 12 Monate die Möglichkeit, einen Möbelwechsel vorzunehmen, indem sie aus dem bestehenden Möbelangebot der Vermieterin andere Möbel zu den entsprechenden Konditionen auswählt. Die abgeschlossene Vereinbarung wird diesfalls den neuen Konditionen entsprechend angepasst. Vorbehalten bleibt eine anderslautende Vereinbarung zwischen den Parteien.
+Kunden haben während der Vertragsdauer die folgenden allgemeinen Pflichten:
 
-Betreffend die mit dem Möbelwechsel anfallenden Kosten wird auf die Regelung unter Ziff. 8 verwiesen. Bereits geleistete Zahlungen (bspw. erster Mietzins) können nicht zurückgefordert werden.
+1. Sich bei der Nutzung der Möbel an die entsprechenden technischen Vorschriften und Betriebsanleitungen zu halten und die Möbel während der gesamten Nutzungsdauer sauber zu halten. Kosten für eine Reinigung werden gemäss den Tarifbestimmungen zusätzlich verrechnet.
+2. Auf eine schonende und rücksichtsvolle Nutzung der Möbel zu achten.
+3. Einen ordnungsgemässen und verantwortungsvollen Schutz gegen Diebstahl sicherzustellen (Abschliessen und Verriegeln von Fenstern und Türen).
+4. Keine optischen oder technischen Veränderungen an den Möbel vorzunehmen oder selber Reparaturen oder Servicearbeiten durchzuführen.
+5. Koj über Vorfälle, Unfälle oder Schäden unverzüglich in Kenntnis zu setzen.
 
-## 15. Möbelrückgabe
+### 7.2 Angaben
 
-### 15.1. Allgemeines
+Der Kunde ist verpflichtet, sämtliche Angaben gegenüber Koj wahrheitsgetreu abzugeben. Der Kunde ist des Weiteren verpflichtet, Email-, Wohnort-, Festnetztelefon-, Mobilnummer- oder Namensänderungen unaufgefordert und unverzüglich an Koj schriftlich mitzuteilen. Unterlässt der Kunde eine solche Information und verursacht er bei Koj dadurch administrativen oder anderen Mehraufwand, ist Koj berechtigt, dem Kunden diesen Mehraufwand in angemessenem Umfang in Rechnung zu stellen. Kann Koj den Kunden länger als 20 Tage nicht erreichen, kann Koj die Vertragsbeziehung fristlos auflösen.
 
-Bei Ende des Mietvertrags hat die Mieterschaft den Mietgegenstand in ordnungsgemässem Zustand zurückzugeben, andernfalls ist die Vermieterin berechtigt, die zur Herstellung eines ordnungsgemässen Zustands erforderlichen Aufwendungen selbst vornehmen zu lassen und die angefallenen Kosten der Mieterschaft in Rechnung zu stellen.
+### 7.3 Widerhandlungen
 
-Bis zur Herstellung des ordnungsgemässen Zustands der Mietsache gilt dieser nicht als zurückgegeben. Gleiches gilt, wenn die Mietsache unvollständig zurückgegeben wird.
+Bei Widerhandlungen gegen die dem Kunden auferlegten Pflichten ist Koj berechtigt, den Kunden oder Nutzungsberechtigten für eine bestimmte Zeit oder dauerhaft von der Nutzung der Leistung auszuschliessen.
 
-Bei verspäteter Rückgabe hat die Mieterschaft für jeden Tag der Verspätung den vereinbarten (anteiligen) Mietzins zu entrichten. Weitergehende Schadensersatzansprüche der Vermieterin bleiben hiervon unberührt.
+Bei wiederholten Widerhandlungen oder grobfahrlässige Pflichtverletzungen mutmasslicher Beschädigung der Möbel ist Koj zur fristlosen Beendigung des Vertragsverhältnisses berechtigt. Die Kosten der Möbelannahme und Reparaturkosten sind in einem solchen Fall vom Kunden zu tragen.
 
-Die Rückgabe der Mietsache erfolgt an der Lieferadresse der Mieterschaft. Den Rückgabetermin vereinbaren die Parteien in gemeinsamer Absprache. Die Mieterschaft erklärt sich einverstanden, dass die Koj die Möbelrückgabe durch einen Dritten (insb. auch durch die Viseca Card Services SA) ausführen lässt.
+Bei Pflichtverletzungen ist der Kunde jedenfalls verpflichtet, Koj schadlos zu halten und durch die Pflichtverletzung entstandene Kosten vollständig zu ersetzen.
 
-### 15.2. Prüfung des Zustands bei der Rückgabe
+## 8. Möbelrückgabe
 
-Über den Zustand der Möbel wird nach deren Rückgabe (Eintreffen der Mietsache bei Koj) durch Koj oder einer durch Koj bezeichneten Stellvertretung und die Mieterschaft ein gemeinsames Protokoll angefertigt und von beiden Parteien unterzeichnet. Sind sich Koj und die Mieterschaft über den Zustand uneinig, wird ein unabhängiger Sachverständiger durch Koj zur Beurteilung beigezogen. Die Kosten für einen unabhängigen Gutachter wird von der Koj bestimmt und der Mieterschaft separat in Rechnung gestellt.
+### 8.1 Übergabe und Ersatztermine
 
-### 15.3. Zustand der Möbel bei Rückgabe
+Koj vereinbart mit dem Kunden einen Rückgabetermin. Der Ort der Rückgabe ist die Wohnadresse des Kunden oder ein anderer von Koj festgelegter Ort.
 
-Bei der Möbelrückgabe müssen die Möbel leer und in einem sauberen und akzeptablen Zustand sein. Als akzeptabel gilt ein Zustand, wenn er dem Alter und der Nutzungsdauer entspricht und frei von Schäden ist. Übliche Gebrauchsspuren gelten als akzeptabel. Schäden oder Zustände, die den Möbelwert mindern oder durch von der Mieterschaft zu verantwortende Handlungen verursacht wurden, können zu zusätzlichen Kosten z.B. Kosten für Reinigung oder Reparatur führen. Diese sind von der Mieterschaft zu tragen. Koj entscheidet über die Höhe der Kosten.
+### 8.2 Prüfung des Zustands bei der Rückgabe
 
-Wird bei der Rückgabe ein nicht gemeldeter Schaden unbestimmter Art entdeckt, darf Koj der Mieterschaft aufgrund der Verletzung der Meldepflicht zusätzliche Kosten verrechnen. Für verdeckte Schäden, welche erst nach der Rückgabe entdeckt werden, gelten dieselben Bestimmungen wie für bei der Möbelrückgabe entdeckte Schäden.
+Über den Zustand der Möbel wird bei der Rückgabe (durch Koj und den Kunden) ein gemeinsames Protokoll angefertigt und von beiden Parteien unterzeichnet. Sind sich Koj und der Kunde über den Zustand uneinig, wird ein unabhängiger Sachverständiger durch Koj zur Beurteilung beigezogen. Die Kosten für einen unabhängigen Gutachter werden dem Kunden gemäss der geltenden Tarifbestimmungen in Rechnung gestellt.
 
-## 16. Kaufoption
+### 8.3 Zustand der Möbel bei Rückgabe
 
-Die Mieterschaft hat jederzeit das Recht, die Mietgegenstände zu Eigentum zu erwerben. Will die Mieterschaft diese Option ausüben, so hat sie dies Koj vorgängig mitzuteilen. Die Parteien vereinbaren diesfalls in einer individuellen Vereinbarung (Kaufvertrag) die Modalitäten des Kaufs.
+Bei der Möbelrückgabe müssen die Möbel in einem sauberen und akzeptablen Zustand sein. Als akzeptabel gilt ein Zustand, wenn er dem Alter und der Nutzungsdauer entspricht und frei von Schäden ist. Übliche Gebrauchsspuren wie beispielsweise kleine Kratzer gelten als akzeptabel. Schäden oder Zustände, die den Möbelwert mindern oder durch bewusste und/oder vom Kunden zu verantwortende Handlungen verursacht wurden, können zu zusätzlichen Kosten z.B. Kosten für Reinigung oder Reparatur führen. Diese sind vom Kunden zu tragen. Koj entscheidet über die Höhe der Kosten. Des Weiteren gelten die Tarifbestimmungen.
 
-## 17. Angaben
+### 8.4 Umfang der Rückgabe
 
-Die Mieterschaft ist verpflichtet, sämtliche Angaben gegenüber Koj wahrheitsgetreu abzugeben. Die Mieterschaft ist des Weiteren verpflichtet, Email-, Festnetztelefon-, Mobilnummer- oder Namensänderungen unaufgefordert und unverzüglich an Koj schriftlich mitzuteilen. Ein bevorstehender Wohnungswechsel hat die Mieterschaft gegenüber Koj frühzeitig mitzuteilen; spätestens mit dem Erhalt oder der Aussprache der Kündigung. Unterlässt die Mieterschaft eine solche Information und verursacht er bei Koj dadurch administrativen oder anderen Mehraufwand, ist Koj berechtigt, der Mieterschaft diesen Mehraufwand in angemessenem Umfang in Rechnung zu stellen.
+Der Kunde ist verpflichtet, die Möbel leer und sauber an Koj zurückzugeben. Wird bei der Rückgabe ein nicht gemeldeter Schaden unbestimmter Art entdeckt, darf Koj dem Kunden aufgrund der Verletzung der Meldepflicht zusätzliche Kosten verrechnen. Für verdeckte Schäden, welche erst nach der Rückgabe entdeckt werden, gelten dieselben Bestimmungen wie für bei der Möbelrückgabe entdeckte Schäden.
 
-## 18. Datenschutz
+### 8.5 Ermächtigung zur zwangsweisen Möbelrückgabe
 
-Koj ist berechtigt, Daten, die Koj im Rahmen der Bonitätsprüfung oder anderweitig erhaltenen hat oder sonstwie verfügbar sind (einschliesslich Personen-, Bonitäts-, Kauf-, Rechnungs-, Zahlungs- und Inkassodaten etc.), für eigene Zwecke oder Zwecke Dritter auch über die Vertragsdauer hinaus zu verwenden. Koj ist nicht verantwortlich für die Einhaltung von datenschutzrechtlichen Verpflichtungen Dritter.
+Wird der Rückgabezeitpunkt nicht eingehalten, ist Koj berechtigt, die Möbel auf Kosten des Kunden bei ihm abholen zu lassen, ohne dass es dazu eines richterlichen Befehls oder einer Hinterlegung bedarf. Der Kunde ermächtigt die Angestellten von Koj oder die von Koj beauftragten Drittpersonen zwecks Rücknahme der Möbel, das Grundstück oder das Gebäude, wo sich die Möbel befindet, zu betreten und die Möbel, sofern verschlossen, gewaltsam zu öffnen.
 
-Koj ist zudem berechtigt, abweichende Datenschutzbestimmungen auf der Website www.koj.co zu publizieren.
+Der Kunde ist verpflichtet, die vertraglich vereinbarte Nutzungsgebühr weiter zu bezahlen sowie die vertraglichen Verpflichtungen einzuhalten, unabhängig davon, ob er die verspätete Rückgabe schuldhaft verursacht hat.
 
-Die Mieterschaft nimmt davon Kenntnis, dass Koj verpflichtet sein kann, Daten der Mieterschaft an die Polizei oder andere zuständige staatliche Stellen herauszugeben.
+## 9. Versicherung
 
-## 19. Vertragsänderungen
+### 9.1 Inklusive für jeden Kunden
 
-Nebenabreden, Änderungen und Ergänzungen des abgeschlossenen Vertrags bedürfen zu ihrer Gültigkeit der Schriftform (E-Mail genügt).
+Der Kunde ist verpflichtet die Möbel über eine Hausratsversicherung selbst zu versichern.
 
-## 20. Salvatorische Klausel
+### 9.2 Kürzung von Versicherungsleistungen
 
-Sollte eine Bestimmung dieser AGB unwirksam oder nichtig sein oder werden, so wird dadurch die Gültigkeit der übrigen Bestimmungen nicht berührt. Im Falle der Ungültigkeit oder Nichtigkeit einer Vertragsbestimmung ist diese von den Parteien durch eine solche zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung am nächsten kommt. Dasselbe gilt auch für allfällige Lücken.
+Werden Versicherungsleistungen aufgrund schuldhaften Verhaltens des Kunden gekürzt, ist Koj berechtigt, den von der Versicherung nicht gedeckten Schaden dem Kunden in Rechnung zu stellen. Der Kunde erhält in solchen Fällen Einblick in die Versicherungspolicen.
 
-## 21. Anwendbares Recht / Gerichtsstand
+### 9.3 Geltungsbereich
 
-Dieser Vertrag untersteht Schweizer Recht unter Ausschluss der Normen des Kollisionsrechts. Ausschliesslicher Gerichtsstand für Streitigkeiten aus oder in Zusammenhang mit diesem Vertrag ist Bern.
+Die Versicherungsdeckung gilt ausschliesslich in den unter Ziff. 3.3 genannten Ländern.
+
+## 10. Im Schadensfall
+
+### 10.1 Meldepflicht des Kunden
+
+Im Schadensfall muss der Kunde Koj unverzüglich in Kenntnis setzen. Als Schadensfälle gelten jegliche Schäden, sowie auch Betriebsschäden, welche aufgrund eines inneren Defekts eintreten (z.B. ein Defekt eines Scharniers). Schäden in Folge von Vorfällen, sind zu melden. Jeder Schaden ist Koj unverzüglich nach Eintreffen oder Entdecken mitzuteilen. Kommt der Kunde seiner Meldepflicht nicht nach, ist er in jedem Fall dazu verpflichtet, den geltenden Selbstbehalt zuzüglich der Gebühr für die Verletzung der Meldepflicht (vgl. die Tarifbestimmungen), zu bezahlen. Die Meldung kann schriftlich via Email oder telefonisch erfolgen (hallo@joinKoj.ch, 0041 44 586 50 28). Das weitere Vorgehen wird jeweils ausschliesslich nach Rücksprache mit Koj festgelegt. Schäden dürfen vom Kunden nicht selber behoben werden.
+
+### 10.2 Bagatellschäden
+
+Verschuldet der Kunde, beispielsweise wegen ungenügender Sorgfalt, Bagatellschäden, kann Koj ihm den in den Tarifbestimmungen definierten Selbstbehalt für Kaskoschäden in Rechnung stellen.
+
+### 10.3 Weitere Schäden
+
+Als weitere Schäden gelten alle Schäden, welche nicht Bagatellschäden, namentlich auch als Folge von unsachgemässem Gebrauch der Möbel. Bei einem Nichtnachkommen der Meldepflicht der sogenannten weiteren Schäden bezahlt der Kunde zuzüglich zum definierten Selbstbehalt weiter die Gebühr für die Verletzung der Meldepflicht. Der Kunde trägt unabhängig vom Verschulden den in den Tarifbestimmungen definierten Selbstbehalt. Soweit der Kunde behauptet, dass ein Schaden bereits im Zeitpunkt der Übernahme der Möbel bestanden habe, ist er hierfür beweispflichtig.
+
+Grundsätzlich stellt das Möbelübernahme-Protokoll, dessen Richtigkeit der Kunde bei Übernahme seiner Koj-Möbel bestätigt, die Ausgangsbasis für die Feststellung von Schadensumfängen bei Schadensfällen oder bei Möbelrücklieferung an Koj dar.
+
+### 10.4 Rücktritt vom Vertrag
+
+Bei Eintritt eines Schadensfalls gemäss Ziff. 10.3 hat Koj jederzeit das Recht, fristlos vom Vertrag zurückzutreten und die Möbel unter Kostenfolgen für den Kunden einzuziehen.
+
+## 11. Datenschutz
+
+Die jeweils aktuellen Datenschutzbestimmungen von Koj befinden sich auf der Website joinkoj.com Koj ist berechtigt, die Kundendaten unter Wahrung der Anonymität des Kunden für Marketingzwecke zu verwenden. Die Kunden- und Zahlungsinformationen werden von Koj sorgfältig verwaltet und ohne Einverständnis des Kunden nicht an Dritte weitergeben. Der Kunde nimmt davon Kenntnis, dass Koj verpflichtet sein kann, Kundendaten an die Polizei oder andere zuständige staatliche Stellen herauszugeben.
+
+## 12. Schlussbestimmungen
+
+### 12.1 Salvatorische Klausel
+
+Sollte eine Bestimmung dieser AGB unwirksam oder nichtig sein oder werden, so wird dadurch die Gültigkeit der übrigen Bestimmungen nicht berührt. Im Falle der Ungültigkeit oder Nichtigkeit einer Vertragsbestimmung ist diese von Koj durch eine solche zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung am nächsten kommt. In gleicher Weise ist zu verfahren, wenn eine Lücke offenbar wird.
+
+### 12.2 Vertragsänderungen
+
+Ergänzungen oder Änderungen dieser AGBs bedürfen zur Gültigkeit der Schriftform.
+
+### 12.3 Gerichtsstand und anwendbares Recht
+
+Es gilt Schweizer Recht unter Ausschluss kollisionsrechtlicher Normen. Gerichtsstand ist Bern (Schweiz).
+
+Bern, 21. April 2020
