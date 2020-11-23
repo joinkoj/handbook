@@ -1,6 +1,7 @@
 ---
 title: Changing how people live
 author: carlo
+featured: true
 date: 2020-04-21T09:32:06.102Z
 ---
 
