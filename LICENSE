@@ -1,0 +1,8 @@
+This repository contains several folders that are licensed individually.
+
+Please see the "License" section of the README.md file for more info.
+
+- Blog posts (./blog) and policies (./policies) are proprietary
+- Images and other assets (./assets) are proprietary
+- All code samples in blog posts are MIT © Koj
+- All other text content is licensed CC BY 4.0 © Koj
