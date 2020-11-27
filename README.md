@@ -4,13 +4,18 @@ This repository serves as the source of truth for our documentation, developer h
 
 **⚠️ WARNING:**: This handbook is still in a very early stage. Expect breaking changes.
 
-## Ideas
+## 📄 License
 
-- We use Conventional Commits (without Gitmoji)
-- Pull requests only, always, never push to master
-- We have a generator for `nuxt-i18n` using directory structure (e.g., `path/to/file.json` -> `$i18n.t("path.to.file.key")`)
-- Guide on how to update `status.joinkoj.com`
-- We use a Staart API-based backend with a new frontend (not using Staart UI)
-  - Map `organizations` to `homes`? Let users switch in advanced settings?
-  - Use `@staart/payments` with Stripe Switzerland?
-- In Vue.js, rather than `v-if="!loading && data.length"`, always use `v-if="state === 'loading'"` and `v-else-if="state === 'empty'"` combined with getter `get state() { if (!data.length) return "empty"; return "error" }`
+- Blog posts (`./blog`) and policies (`./policies`) are proprietary
+- Images and other assets (`./assets`) are proprietary
+- All code samples in blog posts are [MIT](https://opensource.org/licenses/MIT) © [Koj](https://koj.co)
+- All other text content is licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) © [Koj](https://koj.co)
+
+<p align="center">
+  <a href="https://koj.co">
+    <img width="44" alt="Koj" src="https://kojcdn.com/v1598284251/website-v2/koj-github-footer_m089ze.svg">
+  </a>
+</p>
+<p align="center">
+  <sub>An open source project by <a href="https://koj.co">Koj</a>. <br> <a href="https://koj.co">Furnish your home in style, for as low as CHF175/month →</a></sub>
+</p>
