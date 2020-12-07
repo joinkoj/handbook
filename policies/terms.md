@@ -83,7 +83,14 @@ Diese Pflichten der Mieterschaft gelten auch bei Nachbesserungsarbeiten und bei 
 
 Der Mietzins für die Möbelnutzung wird in der Offerte festgelegt und ist monatlich jeweils im Voraus auf den 1. des Monats zu bezahlen.
 
-Der Mietzins ist auf das Konto der X AG [Firma wie im HR, Adresse und Konto] zu bezahlen und Mietzinszahlungen mit befreiender Wirkung können nur an ebendieses Konto geleistet werden.
+Der Mietzins ist auf das Konto
+
+Koj AG, c/o Cleverclip GmbH, Weihergasse 11, 3005 Bern   
+Credit Suisse (Schweiz) AG   
+CH72 0483 5143 5445 6100 0  
+BIC CRESCHZZ80A
+
+zu bezahlen und Mietzinszahlungen mit befreiender Wirkung können nur an ebendieses Konto geleistet werden.
 
 Die Lieferung und die damit zusammenhängenden Arbeiten sowie die Möbelrückgabe bzw. -Abholung und die damit zusammenhängenden Arbeiten (bspw. Demontage) sind im Mietzins inbegriffen. Zusätzliche Leistungen werden separat in Rechnung gestellt (bspw. Fassadenlift, Endreinigung, ausserordentliche Reparaturen etc.).
 
@@ -99,7 +106,7 @@ Koj behält sich vor, Preise anzupassen, insb. im Falle eines Möbelwechsels. F�
 
 ### 9.3. Zahlungsverzug
 
-Wird eine Rechnung von Koj nicht innerhalb der Zahlungsfrist bezahlt, gerät der Mieterschaft ohne weitere Mahnung in Verzug. Bei Verzug ist Koj berechtigt, der Mieterschaft die entstehenden Mehraufwendungen in folgender Höhe in Rechnung zu stellen:
+Wird eine Rechnung von Koj nicht innerhalb der Zahlungsfrist bezahlt, gerät die Mieterschaft ohne weitere Mahnung in Verzug. Bei Verzug ist Koj berechtigt, der Mieterschaft die entstehenden Mehraufwendungen in folgender Höhe in Rechnung zu stellen:
 
 - 1. Mahnung / Zahlungserinnerung: Keine Zusatzkosten
 - 2. Mahnung: Pauschal CHF 25.00
@@ -112,7 +119,7 @@ Erfolgt auch nach der 3. Mahnung keine vollständige Zahlung der offenen Rechnun
 
 Die Kosten des Inkassobüros (weitere Mahnkosten und Betreibungskosten) gehen zu Lasten der Mieterschaft und sind von ihr anerkannt.
 
-Im Falle einer fristlosen Kündigung, für welche die Mieterschaft den Grund gesetzt hat, stehen Koj folgende Forderungen zu, welche der Mieterschaft anerkennt:
+Im Falle einer fristlosen Kündigung, für welche die Mieterschaft den Grund gesetzt hat, stehen Koj folgende Forderungen zu, welche die Mieterschaft anerkennt:
 
 - Aufwandpauschale von CHF 150.00 für mit der Kündigung entstehende Umtriebe
 - Aufwendungen (Zeit und direkte Kosten), die im Zusammenhang mit der ausserordentlichen Abholung der Möbel stehen
@@ -123,7 +130,7 @@ Im Falle einer fristlosen Kündigung, für welche die Mieterschaft den Grund ges
 
 Die Mieterschaft hat während der Vertragsdauer die folgenden allgemeinen Pflichten:
 
-- Die Mieterschaft leistet vor Übergabe der Mietsache eine Kaution von CHF […] auf das Konto [...] der Vermieterin. Die Kaution dient der Sicherung der Mietzinse und zur Deckung von Schäden an der Mietsache, für welche die Mieterschaft einzustehen hat. Wir die Kaution nicht rechtzeitig bezahlt, hat die Vermieterin das Recht, diesen Vertrag per sofort aufzulösen. Bei vollständiger, mängelfreier Rückgabe der Mietsache wird die Kaution zurückerstattet. Zinsen sind keine geschuldet.
+- Die Mieterschaft leistet vor Übergabe der Mietsache eine Kaution zwei Monatsmieten gemäss Offerte auf das Konto der Vermieterin. Die Kaution dient der Sicherung der Mietzinse und zur Deckung von Schäden an der Mietsache, für welche die Mieterschaft einzustehen hat. Wird die Kaution nicht rechtzeitig bezahlt, hat die Vermieterin das Recht, diesen Vertrag per sofort aufzulösen. Bei vollständiger, mängelfreier Rückgabe der Mietsache wird die Kaution zurückerstattet. Zinsen sind keine geschuldet.
 - Die Mieterschaft verpflichtet sich, die Mietsache in sorgfältiger Art und Weise zu gebrauchen, alle Obliegenheiten, die mit dem Besitz, dem Gebrauch und dem Erhalt der Mietsache verbunden sind, zu beachten und Nutzungseinschränkungen sowie Pflege- und Gebrauchsempfehlungen der Vermieterin und des Herstellers zu befolgen. Kosten für eine Endreinigung werden separat verrechnet.
 - Einen ordnungsgemässen und verantwortungsvollen Schutz gegen Diebstahl (Verriegeln von Fenstern und Türen) sicherzustellen sowie eine Hausratsversicherung abzuschliessen.
 - Keine optischen oder technischen Veränderungen an den Möbeln vorzunehmen oder selbst Reparaturen oder Servicearbeiten durchzuführen.
