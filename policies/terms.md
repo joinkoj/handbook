@@ -1,4 +1,4 @@
-# Allgemeine Geschäftsbedingungen
+# Allgemeine Geschäftsbedingungen Koj AG
 
 _These General Terms and Conditions are only provided in German. The customer is required to translate the General Terms and Conditions themself. Koj AG is not responsible for any mistranslation done by the customer._
 
@@ -16,8 +16,9 @@ Die Vermieterin überlässt der Mieterschaft die Gegenstände gemäss Offerte [n
 
 Der Vertrag zwischen der Koj und der Mieterschaft besteht aus der Offerte und den AGB. Sofern die einzelnen Vertragsbestandteile zueinander in einem weder durch entsprechende Auslegung noch sonstwie aufzulösenden Widerspruch stehen, besteht unter den Vertragsbestandteilen folgende Hierarchie:
 
-1. Offerte vom [Datum]
-2. AGB
+1. Offerte [Datum gemäss individueller Onlineofferte]
+2. AGB Koj
+3. ABV Hausratskaskoversicherung Basler Versicherung AG
 
 ## 4. Zustandekommen des Mietvertrags, Mietbeginn, Dauer und Kündigung
 
@@ -25,7 +26,7 @@ Der Mietvertrag wird mit einer Mindestvertragsdauer abgeschlossen, die sich nach
 
 Die Miete beginnt am vereinbarten Liefertermin (Offerte, E-Mail oder Telefon).
 
-Das Mietverhältnis endet in jedem Fall mit dem Wohnungswechsel der Mieterschaft. Er kann von der Mieterschaft mit einer Frist von 90 Tagen auf das Ende eines Monats, erstmals nach Ablauf der Mindestvertragsdauer, gekündigt werden. Vorbehalten bleibt eine davon abweichende schriftliche Abmachung zwischen den Parteien (E-Mail genügt).
+Das Mietverhältnis endet in jedem Fall mit dem Wohnungswechsel der Mieterschaft. Er kann von der Mieterschaft mit einer Frist von 30 Tagen auf das Ende eines Monats, erstmals nach Ablauf der Mindestvertragsdauer, gekündigt werden. Vorbehalten bleibt eine davon abweichende schriftliche Abmachung zwischen den Parteien (E-Mail genügt).
 
 Nach Ablauf der Mindestvertragsdauer hat die Vermieterin das Recht, den Mietvertrag mit einer Frist von 30 Tagen auf einen beliebigen Zeitpunkt zu kündigen.
 
@@ -85,8 +86,8 @@ Der Mietzins für die Möbelnutzung wird in der Offerte festgelegt und ist monat
 
 Der Mietzins ist auf das Konto
 
-Koj AG, c/o Cleverclip GmbH, Weihergasse 11, 3005 Bern   
-Credit Suisse (Schweiz) AG   
+Koj AG, c/o Cleverclip GmbH, Weihergasse 11, 3005 Bern  
+Credit Suisse (Schweiz) AG  
 CH72 0483 5143 5445 6100 0  
 BIC CRESCHZZ80A
 
@@ -152,18 +153,21 @@ Die Vermieterin haftet einzig für den funktionstüchtigen und betriebssicheren 
 ## 13. Haftung der Mieterschaft
 
 Die Mieterschaft haftet für alle Schäden an der Mietsache, die durch unsachgemässen, übermässigen oder vertragswidrigen Gebrauch derselben entstanden sind.
-
 Hat die Mieterschaft für einen Totalschaden oder einen sonstigen Untergang der Mietsache einzustehen, so hat sie den Wiederbeschaffungswert der Mietsache zu ersetzen.
 
-## 14. Möbelwechsel
+## 14. Abtretung von Forderungen
+
+Die Mieterschaft erklärt sich mit einem allfälligen Verkauf, Weiterverkauf und der Abtretung der Forderungen oder damit zusammenhängenden Surrogaten aus dem Mietvertrag an Dritte ausdrücklich einverstanden.
+
+## 15. Möbelwechsel
 
 Nach Mietbeginn hat die Mieterschaft in den ersten 30 Tagen ab Lieferung und danach frühestens nach Ablauf der Mindestvertragsdauer und darauffolgend alle 12 Monate die Möglichkeit, einen Möbelwechsel vorzunehmen, indem sie aus dem bestehenden Möbelangebot der Vermieterin andere Möbel zu den entsprechenden Konditionen auswählt. Die abgeschlossene Vereinbarung wird diesfalls den neuen Konditionen entsprechend angepasst. Vorbehalten bleibt eine anderslautende Vereinbarung zwischen den Parteien.
 
 Betreffend die mit dem Möbelwechsel anfallenden Kosten wird auf die Regelung unter Ziff. 8 verwiesen. Bereits geleistete Zahlungen (bspw. erster Mietzins) können nicht zurückgefordert werden.
 
-## 15. Möbelrückgabe
+## 16. Möbelrückgabe
 
-### 15.1. Allgemeines
+### 16.1. Allgemeines
 
 Bei Ende des Mietvertrags hat die Mieterschaft den Mietgegenstand in ordnungsgemässem Zustand zurückzugeben, andernfalls ist die Vermieterin berechtigt, die zur Herstellung eines ordnungsgemässen Zustands erforderlichen Aufwendungen selbst vornehmen zu lassen und die angefallenen Kosten der Mieterschaft in Rechnung zu stellen.
 
@@ -171,42 +175,57 @@ Bis zur Herstellung des ordnungsgemässen Zustands der Mietsache gilt dieser nic
 
 Bei verspäteter Rückgabe hat die Mieterschaft für jeden Tag der Verspätung den vereinbarten (anteiligen) Mietzins zu entrichten. Weitergehende Schadensersatzansprüche der Vermieterin bleiben hiervon unberührt.
 
-Die Rückgabe der Mietsache erfolgt an der Lieferadresse der Mieterschaft. Den Rückgabetermin vereinbaren die Parteien in gemeinsamer Absprache. Die Mieterschaft erklärt sich einverstanden, dass die Koj die Möbelrückgabe durch einen Dritten (insb. auch durch die Viseca Card Services SA) ausführen lässt.
+Die Rückgabe der Mietsache erfolgt an der Lieferadresse der Mieterschaft. Den Rückgabetermin vereinbaren die Parteien in gemeinsamer Absprache. Die Mieterschaft erklärt sich einverstanden, dass die Koj die Möbelrückgabe durch einen Dritten ausführen lässt.
 
-### 15.2. Prüfung des Zustands bei der Rückgabe
+### 16.2. Prüfung des Zustands bei der Rückgabe
 
 Über den Zustand der Möbel wird nach deren Rückgabe (Eintreffen der Mietsache bei Koj) durch Koj oder einer durch Koj bezeichneten Stellvertretung und die Mieterschaft ein gemeinsames Protokoll angefertigt und von beiden Parteien unterzeichnet. Sind sich Koj und die Mieterschaft über den Zustand uneinig, wird ein unabhängiger Sachverständiger durch Koj zur Beurteilung beigezogen. Die Kosten für einen unabhängigen Gutachter wird von der Koj bestimmt und der Mieterschaft separat in Rechnung gestellt.
 
-### 15.3. Zustand der Möbel bei Rückgabe
+### 16.3. Zustand der Möbel bei Rückgabe
 
 Bei der Möbelrückgabe müssen die Möbel leer und in einem sauberen und akzeptablen Zustand sein. Als akzeptabel gilt ein Zustand, wenn er dem Alter und der Nutzungsdauer entspricht und frei von Schäden ist. Übliche Gebrauchsspuren gelten als akzeptabel. Schäden oder Zustände, die den Möbelwert mindern oder durch von der Mieterschaft zu verantwortende Handlungen verursacht wurden, können zu zusätzlichen Kosten z.B. Kosten für Reinigung oder Reparatur führen. Diese sind von der Mieterschaft zu tragen. Koj entscheidet über die Höhe der Kosten.
 
 Wird bei der Rückgabe ein nicht gemeldeter Schaden unbestimmter Art entdeckt, darf Koj der Mieterschaft aufgrund der Verletzung der Meldepflicht zusätzliche Kosten verrechnen. Für verdeckte Schäden, welche erst nach der Rückgabe entdeckt werden, gelten dieselben Bestimmungen wie für bei der Möbelrückgabe entdeckte Schäden.
 
-## 16. Kaufoption
+### 16.4. Vorzeitige Möbelrückgabe
+
+Die Mieterschaft ist einmalig berechtigt, sämtliche Möbel vorzeitig, d.h. während der vertraglich vereinbarten Mindestlaufzeit, an Koj zurückzugeben. Koj wird die Möbel innert einer Frist von 60 in Rücksprache mit der Mieterschaft abholen.
+
+In diesem Fall schuldet die Mieterschaft eine letztmalige Zahlung. Diese berechnet sich wie folgt:
+
+Die monatlichen Mietpreise werden an die kürzere Laufzeit des Vertrages gemäss Offerte angepasst, wobei angebrochene Jahre abgerundet werden. Bereits geleistete Mietzinszahlungen werden der Mieterschaft angerechnet. Die Differenz hierzu wir als letztmalige Zahlung in Rechnung gestellt.
+
+Im Ergebnis wird die Mieterschaft gleichgestellt, wie wenn ursprünglich eine kürzere Laufzeit vereinbart worden wäre. Bei vollständiger Entrichtung der letztmaligen Zahlung durch die Mieterschaft gilt der Mietvertrag in gegenseitigem Einverständnis als aufgehoben.
+
+## 17. Kaufoption
 
 Die Mieterschaft hat jederzeit das Recht, die Mietgegenstände zu Eigentum zu erwerben. Will die Mieterschaft diese Option ausüben, so hat sie dies Koj vorgängig mitzuteilen. Die Parteien vereinbaren diesfalls in einer individuellen Vereinbarung (Kaufvertrag) die Modalitäten des Kaufs.
 
-## 17. Angaben
+## 18. Hausratskaskoversicherung
+
+Die Mieterschaft schliesst eine Hausratskaskoversicherung mit der Basler Versicherung AG ab. Die Versicherungsprämien sind im Mietpreis gemäss Ziff. 9 obenstehend inbegriffen.
+Im Schadenfall verpflichtet sich die Mieterschaft, Koj über den Schaden zu informieren. Die Abwicklung des Schadens findet zwischen der Basler und Koj statt. Daher ist die Leistung der Basler Versicherung AG der Koj abzutreten, indem eine schriftliche Abtretungserklärung unterzeichnet wird.
+
+## 19. Angaben
 
 Die Mieterschaft ist verpflichtet, sämtliche Angaben gegenüber Koj wahrheitsgetreu abzugeben. Die Mieterschaft ist des Weiteren verpflichtet, Email-, Festnetztelefon-, Mobilnummer- oder Namensänderungen unaufgefordert und unverzüglich an Koj schriftlich mitzuteilen. Ein bevorstehender Wohnungswechsel hat die Mieterschaft gegenüber Koj frühzeitig mitzuteilen; spätestens mit dem Erhalt oder der Aussprache der Kündigung. Unterlässt die Mieterschaft eine solche Information und verursacht er bei Koj dadurch administrativen oder anderen Mehraufwand, ist Koj berechtigt, der Mieterschaft diesen Mehraufwand in angemessenem Umfang in Rechnung zu stellen.
 
-## 18. Datenschutz
+## 20. Datenschutz
 
 Koj ist berechtigt, Daten, die Koj im Rahmen der Bonitätsprüfung oder anderweitig erhaltenen hat oder sonstwie verfügbar sind (einschliesslich Personen-, Bonitäts-, Kauf-, Rechnungs-, Zahlungs- und Inkassodaten etc.), für eigene Zwecke oder Zwecke Dritter auch über die Vertragsdauer hinaus zu verwenden. Koj ist nicht verantwortlich für die Einhaltung von datenschutzrechtlichen Verpflichtungen Dritter.
-
 Koj ist zudem berechtigt, abweichende Datenschutzbestimmungen auf der Website www.koj.co zu publizieren.
-
 Die Mieterschaft nimmt davon Kenntnis, dass Koj verpflichtet sein kann, Daten der Mieterschaft an die Polizei oder andere zuständige staatliche Stellen herauszugeben.
 
-## 19. Vertragsänderungen
+## 21. Vertragsänderungen
 
 Nebenabreden, Änderungen und Ergänzungen des abgeschlossenen Vertrags bedürfen zu ihrer Gültigkeit der Schriftform (E-Mail genügt).
 
-## 20. Salvatorische Klausel
+## 22. Salvatorische Klausel
 
 Sollte eine Bestimmung dieser AGB unwirksam oder nichtig sein oder werden, so wird dadurch die Gültigkeit der übrigen Bestimmungen nicht berührt. Im Falle der Ungültigkeit oder Nichtigkeit einer Vertragsbestimmung ist diese von den Parteien durch eine solche zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung am nächsten kommt. Dasselbe gilt auch für allfällige Lücken.
 
-## 21. Anwendbares Recht / Gerichtsstand
+## 23. Anwendbares Recht / Gerichtsstand
 
-Dieser Vertrag untersteht Schweizer Recht unter Ausschluss der Normen des Kollisionsrechts. Ausschliesslicher Gerichtsstand für Streitigkeiten aus oder in Zusammenhang mit diesem Vertrag ist Bern.
+Dieser Vertrag untersteht Schweizer Recht unter Ausschluss der Normen des Kollisionsrechts. Ausschliesslicher Gerichtsstand für Streitigkeiten aus oder in Zusammenhang mit diesem Vertrag ist **Bern**.
+
+Bern, 12.11.2020
