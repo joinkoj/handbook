@@ -197,9 +197,12 @@ Im Ergebnis wird die Mieterschaft gleichgestellt, wie wenn ursprünglich eine k�
 
 Die Mieterschaft hat jederzeit das Recht, die Mietgegenstände zu Eigentum zu erwerben. Will die Mieterschaft diese Option ausüben, so hat sie dies Koj vorgängig mitzuteilen. Die Parteien vereinbaren diesfalls in einer individuellen Vereinbarung (Kaufvertrag) die Modalitäten des Kaufs.
 
-## 18. Hausratskaskoversicherung
+## 17. Hausratskaskoversicherung
 
 Die Mieterschaft schliesst eine Hausratskaskoversicherung mit der Basler Versicherung AG ab. Die Versicherungsprämien sind im Mietpreis gemäss Ziff. 9 obenstehend inbegriffen.
+
+Die Mieterschaft ist während der gesamten Mietdauer gegen Schäden an den Mietgegenständen versichert. Die Versicherung wird nach Ablauf der Mindestvertragsdauer, maximal aber nach 3 Jahren, jeweils automatisch um ein weiteres Jahr verlängert. 
+
 Im Schadenfall verpflichtet sich die Mieterschaft, Koj über den Schaden zu informieren. Die Abwicklung des Schadens findet zwischen der Basler und Koj statt. Daher ist die Leistung der Basler Versicherung AG der Koj abzutreten, indem eine schriftliche Abtretungserklärung unterzeichnet wird.
 
 ## 18. Angaben
@@ -209,6 +212,7 @@ Die Mieterschaft ist verpflichtet, sämtliche Angaben gegenüber Koj wahrheitsge
 ## 19. Datenschutz
 
 Koj ist berechtigt, Daten, die Koj im Rahmen der Bonitätsprüfung oder anderweitig erhaltenen hat oder sonstwie verfügbar sind (einschliesslich Personen-, Bonitäts-, Kauf-, Rechnungs-, Zahlungs- und Inkassodaten etc.), für eigene Zwecke oder Zwecke Dritter auch über die Vertragsdauer hinaus zu verwenden. Koj ist nicht verantwortlich für die Einhaltung von datenschutzrechtlichen Verpflichtungen Dritter.
+
 Koj ist zudem berechtigt, abweichende Datenschutzbestimmungen auf der Website www.koj.co zu publizieren.
 Die Mieterschaft nimmt davon Kenntnis, dass Koj verpflichtet sein kann, Daten der Mieterschaft an die Polizei oder andere zuständige staatliche Stellen herauszugeben.
 
