@@ -83,9 +83,9 @@ Der Mietzins für die Möbelnutzung wird in der Offerte festgelegt und ist monat
 Der Mietzins ist auf das Konto
 
 Koj AG, c/o Cleverclip GmbH, Weihergasse 11, 3005 Bern  
-Credit Suisse (Schweiz) AG  
-CH72 0483 5143 5445 6100 0  
-BIC CRESCHZZ80A
+Postfinance AG  
+IBAN CH22 0900 0000 1562 8023 3  
+BIC POFICHBEXXX
 
 zu bezahlen und Mietzinszahlungen mit befreiender Wirkung können nur an ebendieses Konto geleistet werden.
 
